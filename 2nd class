@@ -1,0 +1,37 @@
+<html>
+<div style="background-color:lightpink">
+	<head>
+		<title>ABOUT SALLY</title>
+	</head>
+	<style>
+    p.serif {
+  font-family: "Times New Roman", Times, serif;
+	}
+    h1 {
+    font-size: 80px;
+    }
+    h2 {
+    font-size: 40px;
+    }
+	p {
+  font-size: 30px;
+	}
+    
+
+	</style>
+	<body>
+		<h1 class="serif">Lee Soyun</h1>
+        <h2 class="serif">Student, Sol International Media and Communication Art Dept.</h2>
+        <p class="serif">Hello, my name is <b>Lee soyun</b> from <a href="https://en.wikipedia.org/wiki/Korea">Korea</a>, and I am a <a href="https://www.sis.ac.kr:448/page/index.jsp?code=sis030601">SIMA</a> student in <i>Woosong University</i>.<br>
+          I learn how to edit video using <a href="https://www.adobe.com/kr/products/premiere.html?gclid=CjwKCAiA0uLgBRABEiwAecFnk-cPP-4t0RK6U35qjAokhfHklbsDFCS6iJ8hGJbOmOtX4nDOaABP2xoC2xYQAvD_BwE&sdid=TG8SLMKT&mv=search&ef_id=CjwKCAiA0uLgBRABEiwAecFnk-cPP-4t0RK6U35qjAokhfHklbsDFCS6iJ8hGJbOmOtX4nDOaABP2xoC2xYQAvD_BwE:G:s&s_kwcid=AL!3085!3!301862485138!b!!g!!%2Bpremiere%20%2Bpro">premiere pro CS6</a>, and make a movie poster using <a href="https://www.adobe.com/kr/products/photoshop.html">photoshop CS6</a>, also I learn about journalism and media society and technology.<br> 
+          I have some hobbies like dancing, watching movies. I going to share my hobbies.</p>
+          <h2>Dancing</h2>
+		<p class="serif">In Korea, K-POP is very popular and idols are respected to most of people. I guess you have had a dream to be a idol when you were young.<br>
+        <img src="https://pixfeeds.com/images/dance/hip-hop/1280-153159308-female-dancer-showing-off-a-handstand-trick.jpg" alt="Dancing image" height="600">
+        I have had this experience when I was young, so I have a passion about dancing.<br> 
+        <img src="https://media.giphy.com/media/3og0ISkZa1FkmgmT4s/giphy.gif" alt="dancing"></p>
+        <iframe width="400" height="300"  src="https://www.youtube.com/embed/KCpawXf4HD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	</body>
+</div>    
+</html>
